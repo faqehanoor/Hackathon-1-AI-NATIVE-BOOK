@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Inter:wght@400;700&display=swap');
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-font-family-base: 'Inter', sans-serif;
+  --ifm-font-family-headings: 'Poppins', sans-serif;
+  --ifm-color-primary: #00a8e8; /* A vibrant teal */
+  --ifm-color-primary-dark: #007ea7;
+  --ifm-color-primary-darker: #005a7d;
+  --ifm-color-primary-darkest: #003a52;
+  --ifm-color-primary-light: #33b5e8;
+  --ifm-color-primary-lighter: #66c7ea;
+  --ifm-color-primary-lightest: #99d9ec;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
